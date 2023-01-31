@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+}
+
+.button {
+    background-color: rgb(240, 184, 216);
+    font-size: 100px;
+}
+
+.font {
+    font-family: "Courier New", Verdana, Impact;
+    color:rgb(240, 184, 216);
+}
